@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foxes craft discouered; in destroying the peoples best friends, who stand in their prerogative way for perfect peace and freedom. As it will appeare by their usage, not onely of Captaine Bray, but also of his troop, that raised themselves at their own cost, and have continued in many hazards, but now must be ... with the reward of threats or imprisonment, or be ... to serve under one of the foxes new creatures. Wherein is anexed a congratulatory letter, to the ... of a large petition of the 11th September, for discovering their apprehensions to prevent our new slavery. / By John Naylier quartermaster, Richard Ellegood, and John Marshall, appointed by the troope for the prosecuting these things.</title>
+            <author>Naylier, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84855</idno>
+            <idno type="STC">Wing F2044A</idno>
+            <idno type="STC">Thomason E549_7</idno>
+            <idno type="STC">ESTC R205620</idno>
+            <idno type="EEBO-CITATION">99864946</idno>
+            <idno type="PROQUEST">99864946</idno>
+            <idno type="VID">117179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117179)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E549[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foxes craft discouered; in destroying the peoples best friends, who stand in their prerogative way for perfect peace and freedom. As it will appeare by their usage, not onely of Captaine Bray, but also of his troop, that raised themselves at their own cost, and have continued in many hazards, but now must be ... with the reward of threats or imprisonment, or be ... to serve under one of the foxes new creatures. Wherein is anexed a congratulatory letter, to the ... of a large petition of the 11th September, for discovering their apprehensions to prevent our new slavery. / By John Naylier quartermaster, Richard Ellegood, and John Marshall, appointed by the troope for the prosecuting these things.</title>
+                  <author>Naylier, John.</author>
+                  <author>Ellegood, Richard.</author>
+                  <author>Marshall, John, fl. 1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the first yeer of the peoples pretended freedom, but intended slavery, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bray, William, 17th cent.</term>
+               <term>Civil rights --  England --  Sources.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:117179:1"/>
+            <opener>
+               <salute>M. Speaker,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Humbly Deſire you to diſcharge your Publike Truſt to the Nation, and tender this to the <hi>Truſtees</hi> in Parlia<g ref="char:EOLhyphen"/>ment, Sir, I am in ſo doing</p>
+            <closer>
+               <signed>Your Servant <hi>VVilliam Bray.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:117179:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE FOXES Craft Diſcouered; in deſtroying the PEOPLES beſt Friends, who ſtand in their</hi> Prerogative way <hi>for</hi> Perfect Peace <hi>and</hi> Freedom.</p>
+            <p>As it will appeare by their uſage, not onely of Captaine <hi>Bray,</hi> but alſo of his <hi>Troop,</hi> that raiſed themſelves at their owne coſt, and have con<g ref="char:EOLhyphen"/>tinued in many hazards, but now muſt be disperſt with the reward of thr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ats or Impriſonment, or be preſt to ſerve under one of the <hi>Foxes</hi> new Creatures.</p>
+            <p>
+               <hi>Whereunto i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> anexed,</hi>
+               <lb/> A Congratulatory LETTER<g ref="char:punc">▪</g> To the Promot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of a Large PETITION of the 11th <hi>September,</hi> for diſcovering their Apprehentions to prevent our <hi>New Slavery.</hi>
+            </p>
+            <p>By <hi>John Naylier</hi> Quartermaſter, <hi>Richard Ell<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>good,</hi> and <hi>John Marſhall,</hi> appointed by the <hi>Troop</hi> for the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e things.</p>
+            <p>
+               <add>Aprill 2</add> Printed in the firſt yeer of the <hi>Peoples</hi> pretended <hi>Freedom,</hi>but intended <hi>Slavery,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117179:2"/>
+            <pb n="3" facs="tcp:117179:2"/>
+            <div type="introduction">
+               <head>Certaine <hi>PASSAGES BETWEEN</hi> Some Members of <hi>Parliament,</hi> and the Preſenters of the following <hi>Petition.</hi>
+               </head>
+               <p>OF all the expectations of men, the moſt Juſtifiable expe<g ref="char:EOLhyphen"/>ctation of Juſtice is the greateſt miſery to men, when fruſtrate; but we whoſe Names are here ſubſcribed, have moſt wickedly, partially and unjuſtly been fruſtrate of our Ex<g ref="char:EOLhyphen"/>pectations, as we expected Juſtice to our ſelves, and the Nation in generall, being without reaſon ſhewed us, diſmiſſed of the Conduct of thoſe our Officers, which we are all of us, with many more, certaine of their Integrity, but with Reſolution to addreſs our ſelves to the Parliament, as the onely helpe, under God, that we knew of to do us Juſtice, we were diſcouraged ſeverall ways, which made us deſiſt from any further hoping to get any Juſtice done us.</p>
+               <p>Firſt, when we had ſent ſome of our men to <hi>London</hi> with our <hi>Deſires,</hi> which was the Seventeenth of this inſtant <hi>March.</hi> 1648. with reſolution to have delivered this Petition to the <hi>Parliament</hi> the 19. comming to the Parliament door, we found our Captaine committed to <hi>Windſor</hi> Caſtle, for appealing to the Houſe, againſt ſome dealings with him by one that was inferiour to that <hi>Su<g ref="char:EOLhyphen"/>pream Authority,</hi> which was the amazement of our Spirits to ſee that juſt <hi>right of the People</hi> ſo trampled upon, and gave us (as we thought) great cauſe of feare, leſt we ſhould be ſerved the ſame ſawce with our <hi>Petition,</hi> we knowing the honeſty and integrity of our Captaine; but yet howſoever, on the 21. of this preſent, one of thoſe which we intruſted, went into the Houſe upon the r ſing of the Houſe, and delivered our <hi>Petition</hi> to the Speaker, who looking upon it, and finding Captain <hi>Brays</hi> name in the Title of
+<pb n="4" facs="tcp:117179:3"/>the Petition, he began to make ſlight of it, asking the Party that delivered it, whether it were in behalf of Captaine Bray, or not? Who anſwered, It was in behalf of the <hi>Troop,</hi> and Captaine <hi>Bray</hi> beſide; when he heard it was in the <hi>Troops name,</hi> and ſaw the ſub<g ref="char:EOLhyphen"/>ſcriptions of our <hi>hands,</hi> he did vouchſafe to read ſome part of it, and commended ſome of the former part of it to be very honeſt, Collonel <hi>Harriſon</hi> ſtanding by in the Houſe, did alone ſeem to be the moſt pittifull to us, in relation to the hard meaſure that was cited in it, meaſured to us, but Commiſſary Generall <hi>Ireton</hi> told our Souldier, That whereas it touched upon an Ordinance for no deduction for <hi>Free-quarter</hi> for thoſe rayſed for this ſummers ſer<g ref="char:EOLhyphen"/>vice, he told the Souldier againe, That that Ordinance did not extend to Forces of the County of <hi>Kent,</hi> which was very ſtrange to us, but the Comiſſary Generall told the Souldier, That there was care taken for us to ſerve in the <hi>Army</hi> under a new Captaine, but the Souldier told him againe, That we would ſerve under no other Captaine then Captaine <hi>Bray;</hi> but Alderman <hi>Permington</hi> then replyed, That it ſeemed we would not obey the <hi>Generall;</hi> the Souldier asked him, when we ever diſobeyed any of the <hi>Generalls juſt Commands?</hi> whereupon the Alderman ſeemed to catch ſome advantage of the Souldier, and asked him, Whether he thought the Generall would command any unjuſt things? who made him anſwer, That he ſhould not catch him, for he did not ſay he did; but in fine of all, we finding that we had beard the ſenſe of ſo many eminent men in the <hi>Houſe,</hi> we were diſcouraged to trou<g ref="char:EOLhyphen"/>ble them any more with our <hi>Petition;</hi> for the Speaker told our Souldier, That he look'd for ſome ſuch ſtuffe in the tayle of the Petition, as he look'd upon in the end of it, which you may here ſee; but yet having read as much of our Petition as he thought fit, he thruſt it into the hands of our Souldier again, and ſo left him, but yet theſe our intruſted men waighted at their door that af<g ref="char:EOLhyphen"/>ternoon againe, but could not get our Petition into the <hi>Houſe</hi> to the Speaker, although the Seargeant courteouſly went and asked the Speaker. Whether he ſhould bring it in, or not.</p>
+               <p>Now we deſire all honeſt Cenſciencious unbyaſſed men to judge, Whether we are not unworthily dealt withall, for all our integrity to the Nation, as our <hi>Petition,</hi> (which we have made publick here will ſhew) for we muſt either at laſt all of us leave our imployment in the Army, or at leaſt break this Troope,
+<pb n="5" facs="tcp:117179:3"/>which is one of the moſt Unanimouſeſt Troopes in the ARMY, (as it ſtood under Captaine <hi>Bray;</hi> for the ſetting up or purify of <hi>Iuſtice</hi> in the <hi>Nation.</hi>
+               </p>
+            </div>
+            <div type="body_of_petition">
+               <head>To the SUPREAM AUTHORITY of the <hi>Nation,</hi> the <hi>PEOPLES Repreſentatives,</hi> aſſembled in <hi>Parliament.</hi>
+               </head>
+               <head type="sub">The humble Petition of Captaine <hi>William Brays</hi> Troop, of the Regiment of Colonell <hi>John Reynolls.</hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>THat whereas your <hi>petitioners,</hi> having through the ſad ap<g ref="char:EOLhyphen"/>prehenſions of the <hi>power</hi> of a <hi>prevailing party,</hi> both a<g ref="char:EOLhyphen"/>mongſt you, and in all the Councells of the <hi>Nation,</hi> Ma<g ref="char:EOLhyphen"/>ny of us laid down Arms, in the latter end of <hi>Fourty Se<g ref="char:EOLhyphen"/>ven,</hi> &amp; in the beginning of <hi>Fourty Eight,</hi> being about their perticu<g ref="char:EOLhyphen"/>lar Imployments, but ſeeing with grief of heart, the Nation, and our ſelves immediately brought to Slavery by the aforeſaid <hi>prevailing party,</hi> inſomuch, that when we ſaw them appearing in the Field in Armes, then we and others thought it high time to begin to gird our Swords to us againe, and in a way, without pre<g ref="char:EOLhyphen"/>ſident, to raiſe you a Regiment, conſiſting of Seven <hi>Troopes</hi> of <hi>Horſe,</hi> at our, and their propper Coſts and Charges, which is ſuch a thing, that we cannot tell that ever you had the like done for you before; But yet we did cheerfully, notwithſtanding the preſent Charge, and danger thereof, becauſe we found an Inclination in thoſe of greateſt <hi>power</hi> in Marſhall Affaires, to imploy ſuch men in Commiſſion over us, which we knew had ventered very hard, even almoſt to blood for the attainment of that which now this honorable Houſe hath declared;</p>
+               <p>
+                  <pb n="6" facs="tcp:117179:4"/>
+                  <hi>Viz.</hi> That the <hi>People</hi> under God, are the <hi>Original of all juſt Po<g ref="char:EOLhyphen"/>wer,</hi> but when we had ingaged under the afore ſaid Officers, ſeve<g ref="char:EOLhyphen"/>rall times God ſtill giving Victory, inſomuch that thoſe, ours and the Nations enemies were ſubdued, and then began our old <hi>Machiavellian</hi> Adverſaries to ſet to worke againe, and abomina<g ref="char:EOLhyphen"/>bly to <hi>Apeſtatize</hi> and back-ſlide from Principles of Righteouſneſs, peace, and ſettlement of this <hi>Nation,</hi> and to endanger it ſo, as to bring a flood of miſery and Injuſtice upon it; whereupon, we, when we were di miſſed from the County of <hi>Kent,</hi> we have ſtood upon the accompt of Juſtice. Righteouſneſſe and Safety to this Honorable Houſe, and the people that intruſted them, but now finding that the <hi>Generall</hi> hath given our Troop away from Cap<g ref="char:EOLhyphen"/>taine <hi>Bray,</hi> to another Man which we know not, nor never had any experience or ground of confidence in, and by theſe actings, your <hi>Petitioner,</hi> are meerly diſcouraged to act as Souldiers in this Regiment any longer, we having juſt cauſe to ſuſpect that our Captaine is ſlighted meerly for his integrity to the Juſtice of this Honorable Houſe, and the <hi>people</hi> that intruſted them, and becauſe he will not proſtrate his Conſcience to the luſt and will of men without reaſon.</p>
+               <p>THerefore our requeſt to this Honorable Houſe is, that ſince you have Voted that there ſhould be no deductons for <hi>Free-quarter</hi> for thoſe that ingaged for the late Summers ſervice, but it is ſo with us; May it pleaſe this Honorable Houſe, notwith<g ref="char:EOLhyphen"/>ſtanding our good affections and ſecurity that we had full deducti<g ref="char:EOLhyphen"/>on of halfe our pay, while we ſerved in the County for <hi>Free-quar<g ref="char:EOLhyphen"/>ter,</hi> therefore we deſire this <hi>Honorable Houſe</hi> to Order the payment of the ſaid Deduction from the Committee of <hi>Kent,</hi> according to the former Vote of this Honorable <hi>Houſe;</hi> And further, that you will be pleaſed to weigh the premiſſes, and conſider us with righ<g ref="char:EOLhyphen"/>teous and juſt ſatisfaction toward our great expence, danger, haz<g ref="char:EOLhyphen"/>ard &amp; loſſe of time, which we have undergone for the <hi>peoples</hi> juſt ſatisfaction, we having not had one penny of pay neer upon ſixe Moneths, to the utterimpoveriſhing of us, and the ſad Oppreſſion of the Country, and beſides many horſes loſt amongſt us, whilſt we ſtood upon the account of Juctice, that ſo we may not be made the onely object of <hi>miſery</hi> in this firſt yeer of <hi>freedom,</hi> which will but open the mouthes of men to aſperſe and diſhonor you, for we are very willing at theſe unrighteous diſcouragements to
+<pb n="7" facs="tcp:117179:4"/>lay down our Arms, at this caſting out of our Captaine; onely we deſire this Honorable <hi>Houſe</hi> to conſider us likewiſe in ſome mea<g ref="char:EOLhyphen"/>ſure toward all this neer upon ſix Moneths time; And we deſire alſo that this Honorable Houſe will put us in a way of ſatisfacti<g ref="char:EOLhyphen"/>on for former <hi>Arrears,</hi> before we diſmiſs or diſperſe. Alſo we de<g ref="char:EOLhyphen"/>ſire you ſeriouſly to weigh and conſider an Addreſs preſented to this Honorable Houſe the 26. of <hi>Febr.</hi> 1648. by the hand of Lieu. Col. <hi>Iohn Lilburne,</hi> &amp; many others of the <hi>Nations</hi> and our friends, that were Preſenters, promoters, and approvers of the large <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> of <hi>Septem.</hi> the 11. 1648. the aforeſaid Addreſs being the lively portrature of our apprehenſions, it being high time to inſiſt upon <hi>Laws</hi> of ſettlement, Peace &amp; Juſtice, before we ſhall be willing to ingage in any other Nation, in the warre of <hi>Ireland;</hi> the unſettle<g ref="char:EOLhyphen"/>ment in Juſtice, Apoſtacy, Deceipt, and neglect, here having been the cauſe of the Miſery to the Souldery and People there; Further we deſire this Honorable Houſe to conſider of a late Sentence paſſed againſt a Member of our Regiment, with ſeverall other men of ſeverall other Regiments by the <hi>Counſell of War;</hi> and to conſider whether the ſaid SENTENCE be con<g ref="char:EOLhyphen"/>ſiſtent to the <hi>juſt Rights,</hi> which we have ſpent our bloods for, or not, we conceiving all our ſelves ſentenced in their <hi>ſentence;</hi> And we further deſire this honorable Houſe, ſo to regulate the <hi>Articles of War,</hi> that they may be ſuitable to <hi>free-born Engliſh men,</hi> and that likewiſe the ſame <hi>principles</hi> &amp; <hi>laws</hi> may govern our Officers (both Superiors &amp; Inferiors) which ſhall govern us; which way of Or<g ref="char:EOLhyphen"/>der we account to be moſt conſiſtent to the pe ple s dear purcha<g ref="char:EOLhyphen"/>ſed Rights. We hope this Honorable Houſe will take theſe ruffe and unpolliſhed lines in the charitableſt conſtruction, it being no part of our <hi>Principles</hi> to ſpeake any other language then the plainneſs of our hearts.</p>
+               <closer>
+                  <signed>And your Petitioners ſhall daily pray, &amp;c.
+<list>
+                        <item>
+                           <hi>Wil<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>iam Haſlup,</hi> Lieutenant,</item>
+                        <item>
+                           <hi>Chriſt<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Cheſman,</hi> Cornet,</item>
+                        <item>
+                           <hi>Iohn Nay<g ref="char:EOLhyphen"/>lier</hi> Quartermaſter,</item>
+                        <item>
+                           <list>
+                              <head>Corporalls:</head>
+                              <item>Austin VVhitney,</item>
+                              <item>Rob. Harbiſon,</item>
+                           </list>
+                        </item>
+                        <item>Joh. VVright,</item>
+                        <item>Rob. Painter.</item>
+                        <item>Fran. Haſl<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lup,</item>
+                        <item>Wil. Bastin.</item>
+                        <item>Iohn Lathe,</item>
+                        <item>Tho. Grimos,</item>
+                        <item>Iohn Hardey,</item>
+                        <item>Gilbert Games,</item>
+                        <item>Rich. Hill.</item>
+                        <item>Rich. Sanders,</item>
+                        <item>Rob. Harriſon,</item>
+                        <item>Tho. Richards,</item>
+                        <item>Val. Stephenſon,</item>
+                        <item>Ed. Avery,</item>
+                        <item>Hen. Bug<g ref="char:EOLhyphen"/>bey,</item>
+                        <item>Io. Baſtin,</item>
+                        <item>Ant. Baſtin.</item>
+                        <item>Ioſeph Pepitt,</item>
+                        <item>Io. Marſhall.</item>
+                        <item>Ed. Baſtin,</item>
+                        <item>Will. Scott,</item>
+                        <item>Sam. Ga<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er,</item>
+                        <item>Sam. Howlt,</item>
+                        <item>Fran. Lee,</item>
+                        <item>Dan. King.</item>
+                        <item>Tho. Satchell,</item>
+                        <item>
+                           <pb n="8" facs="tcp:117179:5"/>
+Tob. Robbinſon,</item>
+                        <item>Rich. Robbins,</item>
+                        <item>George Betten,</item>
+                        <item>George Spoo<g ref="char:EOLhyphen"/>ner,</item>
+                        <item>Tho. Anderton,</item>
+                        <item>Ioh. Fran<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on,</item>
+                        <item>Ioh. Allin,</item>
+                        <item>Rob. Abbit.</item>
+                        <item>Will. B<gap reason="illegible" extent="5 letters">
+                              <desc>•••••</desc>
+                           </gap>,</item>
+                        <item>Chriſto. Booth.</item>
+                        <item>Iames Trigg,</item>
+                        <item>Wil. Smith,</item>
+                        <item>Hum. Budds,</item>
+                        <item>Rob. Patridge, </item>
+                        <item>Sam. Mowbray,</item>
+                        <item>Will. Howell,</item>
+                        <item>Iohn Parr, </item>
+                        <item>Io. Laſey.</item>
+                        <item>Ioſ. Raſtall,</item>
+                        <item>Thomas Li<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ell.</item>
+                        <item>Tho. Flafer,</item>
+                        <item>Ioh. Waſhburne,</item>
+                        <item>Ioh. Cornelius,</item>
+                        <item>David Chemi<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</item>
+                        <item>Wil. Sidwel.</item>
+                        <item>Tho. Roe,</item>
+                        <item>Rich. Ellegood,</item>
+                        <item>Nicho. Weſtwood,</item>
+                        <item>Ha<gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ball Dawſon,</item>
+                        <item>Jer. Stephenſon,</item>
+                        <item>Hen. Philpott,</item>
+                        <item>Ed. Taylor.</item>
+                        <item>Will. Haddock,</item>
+                        <item>
+                           <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Bence,</item>
+                        <item>Will. Gilbert.</item>
+                        <item>John Ellington,</item>
+                        <item>Att. Boothe,</item>
+                        <item>Wi. Morden,</item>
+                        <item>Jo<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Mutlow,</item>
+                        <item>Rob. Ba<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gey,</item>
+                        <item>Joh. Price,</item>
+                        <item>Ralph Phillips</item>
+                        <item>Joh. Eluins,</item>
+                        <item>Ioh. B<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="response_to_petition">
+            <head>To our much honored and truſty Friends, the Petitioners of the <hi>Eleventh</hi> of <hi>Septem.</hi> This preſent. in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>DEear Friends,</salute>
+            </opener>
+            <p>you are the reviving of our Spirits, to ſee that you have not yet made ſhipwrack of your Integrity in theſe times of Apoſtacy, we acknowledge that you have given gr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at incouragement to us, to act ſomething againſt the <hi>new Chai<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of the Nation; and we deſire likewiſe, that you will accept of ſo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſmall incouragement from us, <hi>viz.</hi> That we have ſeen your late Addreſs of <hi>Febr.</hi> the 26. 1648. and doe readily and cheerfully, comply with it in every Circumſtance thereof, and have likewiſe ſo farre taken notice of it to the <hi>ſupreame Authority of the Nation, the People Aſſembled in Parliament;</hi> Therefore<g ref="char:punc">▪</g> 
+               <hi>Dear Friende,</hi> We deſire that you will likwiſe weigh and conſider our Freinds, that have preſented our Apprehenſions in a Letter to the <hi>Generall,</hi> and to joyne with us in our endeavors for their inlargement (if you account that which they did juſt) and full and ample, reparation of their injuries ſuffered in <hi>the publick Cauſe of the people,</hi> and that further both you and we doe continue <hi>faithfull one to another,</hi> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our old <hi>juſt principles;</hi> for be you aſſured that we are ready to lay downe our lives, (if God ſhall call for them in our) Capaſſitie for the <hi>Nations juſt and full Rights,</hi> and therein reſt ſatisfied, knowing that you are involved in the ſame common <hi>Cauſe</hi> of the <hi>Engliſh</hi> People, with your Faithfull Friends for <hi>Iuſtice.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
